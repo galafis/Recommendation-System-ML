@@ -3,10 +3,6 @@
 ![Hero Image](assets/hero_image.png)
 
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-red?style=for-the-badge&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=for-the-badge&logo=jupyter)
 
 ## 🇧🇷 Sistema de Recomendação com Machine Learning
 
