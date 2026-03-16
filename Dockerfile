@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["python", "src/main.py"]
+CMD ["python", "src/recommendation_system.py"]
